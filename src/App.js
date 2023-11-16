@@ -3,15 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div className="container">
-      <h1>A CRUD App</h1>
-      <div className="flex-row">
-        <div className="flex-large">
-          <h2>Add user</h2>
-        </div>
-        <div className="flex-large">
-          <h2>View users</h2>
-        </div>
-      </div>
+      <h1>Hello React</h1>
     </div>
   )
 }
